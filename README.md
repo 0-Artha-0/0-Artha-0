@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 I’m currently studying at University of Sharjah as a Computer Science Student
-🔭 I’m currently working on our Web Programming group project
+#🌱 I’m currently studying at University of Sharjah as a Computer Science Student
+#🔭 I’m currently working on our Web Programming group project
 <!--
 **0-Artha-0/0-Artha-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
